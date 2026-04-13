@@ -1,0 +1,21 @@
+2026-04-08 14:31:53,153 - __main__ - INFO - manishmhetre was added in TATA
+2026-04-08 14:31:53,153 - __main__ - INFO - viratkohli was added in TATA
+2026-04-08 14:31:53,154 - __main__ - INFO - manishmhetre added Employee manish in the company records
+2026-04-08 14:31:53,154 - __main__ - INFO - viratkohli added Employee virat in the company records
+2026-04-08 14:31:53,154 - __main__ - INFO - viratkohli added Employee rohit in the company records
+2026-04-08 14:31:53,154 - __main__ - INFO - viratkohli added Employee dhoni in the company records
+2026-04-08 14:31:53,155 - __main__ - INFO - Company TATA fetched Employees records
+2026-04-08 14:31:53,156 - __main__ - INFO - Company TATA fetched Managers records
+2026-04-08 14:32:38,608 - __main__ - WARNING - Invalid Login attempt for id gsfdgdsf
+2026-04-08 14:34:01,962 - __main__ - INFO - Manager manishmhetre from TATA company, successfully logged in
+2026-04-08 14:34:15,221 - __main__ - WARNING - Manager manishmhetre tried to add an existing employee manish to the company records
+2026-04-08 14:34:36,800 - __main__ - INFO - Manager manishmhetre added Employee rishabh to the company records
+2026-04-08 14:34:42,746 - __main__ - WARNING - Manager manishmhetre tried to remove non existing Employee with name:gdfsgdfs, from the company records
+2026-04-08 14:34:51,375 - __main__ - INFO - Manager manishmhetre removed Employee rishabh from the company records
+2026-04-08 14:35:02,445 - __main__ - INFO - Manager manishmhetre fetched company employee records
+2026-04-08 14:35:12,084 - __main__ - INFO - Manager manishmhetre fetched records for Employee dhoni from company records
+2026-04-08 14:35:19,712 - __main__ - WARNING - manishmhetre tried to change salary for a non-existing Employee with name:gdfsgdsf
+2026-04-08 14:35:40,415 - __main__ - INFO - Manager manishmhetre changed salary for Employee manish to 800000
+2026-04-08 14:35:53,602 - __main__ - INFO - Manager manishmhetre removed Employee dhoni from the company records
+2026-04-08 14:35:53,603 - __main__ - INFO - Manager manishmhetre removed 1 Employees within the age range ['40', '50']
+2026-04-08 14:35:56,682 - __main__ - INFO - Manager manishmhetre logged out successfully
